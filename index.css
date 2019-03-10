@@ -233,39 +233,27 @@ h1 strong{
 }
 
 .social-link.twit{
-<<<<<<< HEAD
+
   background-image: url('twit.svg');
-=======
-  background-image: url('/twit.svg');
->>>>>>> 6cd03ce36af651970a466e825920f870855c203e
+
   background-size: 50px 50px;
 }
 
 .social-link.face{
-<<<<<<< HEAD
+
   background-image: url('fb.svg');
-=======
-  background-image: url('/fb.svg');
->>>>>>> 6cd03ce36af651970a466e825920f870855c203e
   background-size: 50px 50px;
 }
 
 .social-link.git{
-<<<<<<< HEAD
   background-image: url('git.svg');
-=======
-  background-image: url('/git.svg');
->>>>>>> 6cd03ce36af651970a466e825920f870855c203e
+
   background-size: 50px 50px;
 }
 
 .social-link.insta{
   
-<<<<<<< HEAD
   background-image: url('insta.svg');
-=======
-  background-image: url('/insta.svg');
->>>>>>> 6cd03ce36af651970a466e825920f870855c203e
   background-size: 50px 50px;
 }
 
@@ -274,11 +262,7 @@ h1 strong{
   padding: 10px 20px 10px 25px;
   border-style: solid;
   border-radius: 5px;
-<<<<<<< HEAD
   background-image: url('mail.svg');
-=======
-  background-image: url('/mail.svg');
->>>>>>> 6cd03ce36af651970a466e825920f870855c203e
   background-size: 15px 15px;
   background-repeat: no-repeat;
   background-position-y:center; 
