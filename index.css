@@ -233,22 +233,23 @@ h1 strong{
 }
 
 .social-link.twit{
-  background-image: url('../twit.svg');
+  background-image: url('/twit.svg');
   background-size: 50px 50px;
 }
 
 .social-link.face{
-  background-image: url('../fb.svg');
+  background-image: url('/fb.svg');
   background-size: 50px 50px;
 }
 
 .social-link.git{
-  background-image: url('../git.svg');
+  background-image: url('/git.svg');
   background-size: 50px 50px;
 }
 
 .social-link.insta{
-  background-image: url('../insta.svg');
+  
+  background-image: url('/insta.svg');
   background-size: 50px 50px;
 }
 
@@ -257,7 +258,7 @@ h1 strong{
   padding: 10px 20px 10px 25px;
   border-style: solid;
   border-radius: 5px;
-  background-image: url('../mail.svg');
+  background-image: url('/mail.svg');
   background-size: 15px 15px;
   background-repeat: no-repeat;
   background-position-y:center; 
