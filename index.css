@@ -233,21 +233,17 @@ h1 strong{
 }
 
 .social-link.twit{
-
   background-image: url('twit.svg');
-
   background-size: 50px 50px;
 }
 
 .social-link.face{
-
   background-image: url('fb.svg');
   background-size: 50px 50px;
 }
 
 .social-link.git{
   background-image: url('git.svg');
-
   background-size: 50px 50px;
 }
 
